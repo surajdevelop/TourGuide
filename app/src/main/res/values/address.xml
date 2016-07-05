@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="add_elephanta">Gharapuri, Maharashtra</string>
+    <string name="add_gateway">Apollo Burder Area,South Mumbai</string>
+    <string name="add_cst">CST Area,Fort, Mumbai</string>
+    <string name="add_kanheri">Borivali,Mumbai</string>
+    <string name="add_see">Church Gate, Mumbai</string>
+    <string name="add_peshawari">ITC mARATHI,Andheri East</string>
+    <string name="add_romano">CST Airport,Mumbai</string>
+    <string name="add_khyber">145,M.G Road,Andheri West</string>
+    <string name="add_marine">Chaupati,Mumbai</string>
+    <string name="add_essel">Gorai,Mumbai</string>
+    <string name="add_film">Film City Road,Goregaun</string>
+    <string name="add_ganpati">Andheri West</string>
+    <string name="add_ict">Thane</string>
+    <string name="add_musical">Bandra</string>
+    <string name="add_youtube">Worli,Mumbai</string>
+</resources>

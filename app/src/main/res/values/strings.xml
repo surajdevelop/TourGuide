@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+   <string name="name_elephanta">Elephanta Caves</string>
+    <string name="name_gateway">Gateway Of Indias</string>
+    <string name="name_cst">Chatrapati Shivaji Terminus</string>
+    <string name="name_kanheri">Kanheri Caves</string>
+    <string name="name_see">See Lounge</string>
+    <string name="name_peshawari">Peshawari</string>
+    <string name="name_romano">Romano</string>
+    <string name="name_khyber">Khyber</string>
+    <string name="name_marine">Marine Drive</string>
+    <string name="name_essel">Essel World</string>
+    <string name="name_film">Film City</string>
+    <string name="name_ganpati">Ganpati Visarjan</string>
+    <string name="name_ict">ICT Marathon</string>
+    <string name="name_musical">Musical Concert</string>
+    <string name="name_youtube">Youtube Fan Fest</string>
+
+
+
+
+
+
+</resources>
